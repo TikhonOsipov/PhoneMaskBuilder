@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PhoneMask</string>
+    <string name="button_delete_text">Delete</string>
+</resources>
